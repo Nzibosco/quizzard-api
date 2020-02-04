@@ -7,6 +7,13 @@
     <groupId>com.revature</groupId>
     <artifactId>quizzard-api</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
